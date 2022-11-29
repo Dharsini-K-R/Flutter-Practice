@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeploymentTitle component renders correctly 1`] = `
+<div
+  class="makeStyles-boxWrapper"
+>
+  <div
+    class="MuiGrid-root makeStyles-boxPadding MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-true"
+    >
+      <div
+        class="makeStyles-titleContainer"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <span
+            class="MuiBadge-root"
+          >
+            <i
+              aria-hidden="true"
+              class="la la-cloud makeStyles-icon"
+              role="presentation"
+              style="font-size: 28px;"
+            />
+            <span
+              class="MuiBadge-badge makeStyles-badge makeStyles-badge MuiBadge-anchorOriginBottomRightCircular MuiBadge-dot"
+            />
+          </span>
+          <span
+            class="makeStyles-label"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-text MuiTypography-body1"
+            id="DEPLOYMENTS_DEPLOYMENT_TITLE_126"
+          >
+            Development
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-content-xs-flex-end MuiGrid-grid-xs-6"
+      style="align-items: center;"
+      title=""
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text"
+        id="DEPLOYMENTS_ADD_DEPLOYMENT_BUTTON_126"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <i
+              aria-hidden="true"
+              class="la la-plus-circle makeStyles-addIcon"
+              role="presentation"
+            />
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <p
+              class="MuiTypography-root makeStyles-buttonText MuiTypography-body1"
+              id="DEPLOYMENTS_ADD_DEPLOYMENT_BUTTON_126"
+            >
+              Add Deployment
+            </p>
+          </div>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

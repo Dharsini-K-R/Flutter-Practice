@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeploymentDetails component renders correctly 1`] = `
+<div
+  class="MuiGrid-root makeStyles-boxWrapper MuiGrid-container"
+>
+  <div
+    class="MuiGrid-root makeStyles-deploymentWrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 MuiGrid-grid-md-4 MuiGrid-grid-lg-3"
+  >
+    <div
+      class="makeStyles-titleContainer"
+    >
+      <span
+        class="MuiBadge-root"
+      >
+        <i
+          aria-hidden="true"
+          class="la la-stream makeStyles-icon"
+          role="presentation"
+          style="font-size: 21px;"
+        />
+        <span
+          class="MuiBadge-badge makeStyles-badge makeStyles-badge MuiBadge-anchorOriginBottomRightCircular MuiBadge-dot"
+        />
+      </span>
+      <span
+        class="makeStyles-label"
+      />
+      <p
+        class="MuiTypography-root makeStyles-iconText MuiTypography-body1"
+        id="DEPLOYMENTS_DEPLOYMENT_NAME_126016"
+      >
+        My_Big_Shop_Test_4
+      </p>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-userContainer makeStyles-deploymentWrapper MuiGrid-container MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 MuiGrid-grid-md-2 MuiGrid-grid-lg-3"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root makeStyles-buttonRoot MuiButton-text makeStyles-icon MuiButton-disabled MuiButtonBase-disabled"
+      disabled=""
+      id="DEPLOYMENT_DETAILS_OWNER_BUTTON_126016"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        <div
+          class="MuiAvatar-root MuiAvatar-circular makeStyles-avatar makeStyles-avatar MuiAvatar-colorDefault"
+        >
+          <i
+            aria-hidden="true"
+            class="la la-user-alt"
+            role="presentation"
+          />
+        </div>
+        <p
+          class="MuiTypography-root makeStyles-name MuiTypography-body1"
+        >
+          Unknown User - test-user
+        </p>
+      </span>
+    </button>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-6"
+    spacing-lg="2"
+  >
+    <div
+      class="MuiGrid-root makeStyles-deploymentWrapper makeStyles-containerPlacement MuiGrid-container MuiGrid-item MuiGrid-grid-xs-true"
+    >
+      <p
+        class="MuiTypography-root makeStyles-iconText MuiTypography-body1"
+        id="DEPLOYMENTS_DEPLOYMENT_STATUS_126016"
+      >
+        Status
+        :
+        <span
+          class="makeStyles-statusRunning makeStyles-statusRunning"
+        >
+          Running...
+        </span>
+      </p>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-content-xs-flex-end MuiGrid-grid-xs-1 MuiGrid-grid-sm-2 MuiGrid-grid-md-2 MuiGrid-grid-lg-1"
+      />
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-deploymentWrapper makeStyles-containerPlacement MuiGrid-container MuiGrid-item MuiGrid-grid-xs-2 MuiGrid-grid-sm-1 MuiGrid-grid-md-2 MuiGrid-grid-lg-2"
+    >
+      <i
+        aria-hidden="true"
+        class="la la-angle-down makeStyles-expandCollapseIcon"
+        id="DEPLOYMENTS_DEPLOYMENT_EXPAND_126016"
+        role="presentation"
+      />
+    </div>
+  </div>
+</div>
+`;

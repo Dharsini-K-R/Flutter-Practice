@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SummaryCard component renders correctly 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root makeStyles-cardStyle MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    class="MuiCardContent-root"
+  >
+    <div
+      class="MuiGrid-root makeStyles-flexSpaceBtw makeStyles-headerWrapper MuiGrid-container"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5"
+        id="ENVIRONMENT_DETAILS_DEPLOYMENTS_CARD_TITLE"
+      >
+        Deployments
+      </h5>
+      <div>
+        Test Icon
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-bodyWrapper MuiGrid-container"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-bodyText MuiTypography-h2"
+        id="ENVIRONMENT_DETAILS_DEPLOYMENTS_CARD_COUNT"
+      >
+        
+        2
+      </h2>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-flexSpaceBtw MuiGrid-container"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button"
+          id="ENVIRONMENT_DETAILS_DEPLOYMENTS_CARD_ACTION_BUTTON"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Add Deployment
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

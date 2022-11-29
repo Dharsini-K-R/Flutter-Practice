@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EnvironmentSectionHeader component renders correctly 1`] = `
+<div
+  class="MuiGrid-root makeStyles-environmentTitleWrapper MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between MuiGrid-grid-xs-12"
+>
+  <div
+    class="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      class="MuiBox-root MuiBox-root"
+    >
+      <div
+        class="MuiBox-root MuiBox-root"
+      >
+        <p
+          class="MuiTypography-root makeStyles-envName makeStyles-envName MuiTypography-body1"
+          id="INSTANCE_DETAILS_ENVIRONMENT_NAME"
+        >
+          Development
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      class="MuiBox-root MuiBox-root"
+    >
+      <div
+        class="MuiBox-root MuiBox-root"
+      >
+        <div>
+          Mock UserButton
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Application Page Header component renders correctly 1`] = `
+<div
+  class="makeStyles-commonPageHeaderContainer"
+  data-testid="applications-container"
+>
+  <div
+    class="MuiGrid-root makeStyles-commonPageHeaderGrid MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <i
+        aria-hidden="true"
+        class="la la-cube makeStyles-commonPageHeaderIcon"
+        role="presentation"
+      />
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <h4
+        class="MuiTypography-root makeStyles-commonPageHeaderText MuiTypography-h4"
+        id="applications_title"
+      >
+         
+        Application Images
+      </h4>
+    </div>
+  </div>
+</div>
+`;

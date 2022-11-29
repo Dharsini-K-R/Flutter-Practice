@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrganisationSelection component renders correctly 1`] = `
+<DocumentFragment>
+  <nav
+    class="makeStyles-topNav"
+  >
+    <div
+      class="makeStyles-breadcrumbContainer"
+    >
+      <button
+        aria-haspopup="true"
+        aria-label="organisation"
+        class="MuiButtonBase-root MuiButton-root makeStyles-btnRoot MuiButton-outlined MuiButton-outlinedSizeSmall MuiButton-sizeSmall"
+        id="cclaOrganisationBtn"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <i
+            aria-hidden="true"
+            class="la la-exchange-alt"
+            role="presentation"
+          />
+        </span>
+      </button>
+    </div>
+  </nav>
+</DocumentFragment>
+`;

@@ -1,0 +1,17 @@
+{
+  "Are you sure you want to delete this environment?": "Are you sure you want to delete \"{{name}}\"?",
+  "Are you sure you want to trigger the action?": "Are you sure you want to trigger \"{{action}}\"?",
+  "Users in your organisation": "{{orgName}} Users",
+  "Please contact to your System Administrator.": "{{context}} Please contact to your System Administrator. [{{reason}}]",
+  "This field is required": "{{name}} is required",
+  "displayedRows": "{{from}}-{{to}} of {{count}}",
+  "Download item": "Download {{item}}",
+  "Are you sure you want to delete this user?": "Are you sure you want to delete \"{{name}}\"?",
+  "Delete User": "Delete User",
+  "Enter Key": "Enter {{value}} Key",
+  "Service provider will provide you with a KEY when you create AWS account.": "Service provider will provide you with a KEY when you create {{value}} account.",
+  "Are you sure you want to delete organaisation?": "Are you sure you want to delete \"{{name}}\"?",
+  "Are you sure you want to delete user?": "Are you sure you want to delete user \"{{name}}\"?",
+  "Users for": "Users for {{environmentName}}",
+  "Please open it in the other window from the select box on the top right.": "Please open {{name}} in the other window from the select box on the top right."
+}
